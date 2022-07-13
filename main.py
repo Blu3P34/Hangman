@@ -1,6 +1,6 @@
 print("Welcome to guessing game")
 word = "Anakin"
-print("This word has " + str(len(word)) + " letters \nYou have 5 chances")
+print("You have 5 chances")
 guessing_word = None
 guessing_limit = 0
 guessing_count = 5
