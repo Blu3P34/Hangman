@@ -3,6 +3,6 @@ ________________________________________________________________________________
 ______________________________________________________________________________________
                                     oOo Game rule oOo
 - You will be given a mystery word and your mission is to figure out what that word is.
-- You have 6 lives before you hang yourself
-- You may either guess a letter or give the whole word and end the game immediately
+- You have 6 lives before you hang yourself.
+- You may either guess a letter or give the whole word and end the game immediately.
 _______________________________________________________________________________________
