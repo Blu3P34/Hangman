@@ -7,5 +7,6 @@ def hangman(guess):
         else :
             display_ans = display_ans + "_"
     print(display_ans)
-print(hangman("L"))
+
+hangman("A")
 
