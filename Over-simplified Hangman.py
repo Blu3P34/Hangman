@@ -1,18 +1,13 @@
-print("Welcome to guessing game")
+print("Welcome to over-simplified Hangman")
 word = "Anakin"
 print("You have 5 chances")
 guessing_word = None
 guessing_limit = 0
-guessing_count = 5
-Hint = {
-    "5" : "He is a StarWars character",
-    "4" : "His lightsaber is blue",
-    "3" : "He has prosthetic limbs",
-    "2" : "He has the highest midi-chlorian count ever recored",
-    "1" : "He is the chosen one"
-}
+guessing_count = 6
+Hint = "StarWars character."
+
 while guessing_count > guessing_limit and guessing_word != word :
-    print("Hint : " + Hint[str(guessing_count)])
+    print("Hint : " + Hint)
     guessing_word = input("guess : ")
     if guessing_word == word :
         print("Congrats, the word is indeed " + word)
