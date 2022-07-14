@@ -1,5 +1,4 @@
 #Hide true answer
-true_ans = mystery_bank[mys_num][0]
 def hide(a) :
     b = ""
     for letter in a :
